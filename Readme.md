@@ -4,7 +4,7 @@
 
 This project is a Streamlit-based chat application that interacts with the Gemini AI model, allowing users to engage in conversations with an artificial intelligence assistant. The application stores chat history, allowing users to revisit and continue previous conversations.
 
-<div align="center"><img src="docs/gemini-chatbot.gif" width="800"></div>
+<div align="center"><img src="docs/pic.png" width="800"></div>
 
 ## Getting Started
 
